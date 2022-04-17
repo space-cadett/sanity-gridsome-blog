@@ -33,8 +33,3 @@ Netlify automatically deploys new changes commited to master on GitHub. If you w
 
 This starter comes with a Netlify-widget that lets you trigger new deploys from Sanity Studio.
 
-## Stuck? Get help
-
-[![Slack Community Button](https://slack.sanity.io/badge.svg)](https://slack.sanity.io/)
-
-Join [Sanity’s developer community](https://slack.sanity.io) or ping us [on twitter](https://twitter.com/sanity_io).
